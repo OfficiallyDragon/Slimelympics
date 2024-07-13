@@ -1,0 +1,1 @@
+tellraw @a "Intermission started, please wait while we set up the next round!"

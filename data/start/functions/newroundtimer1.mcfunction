@@ -1,0 +1,1 @@
+tellraw @a [{"text":"The next round starts in "},{"text":"6","color":"green"}]

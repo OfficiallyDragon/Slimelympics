@@ -1,0 +1,2 @@
+execute if block 3845 93 3109 minecraft:lime_carpet run summon slime 3811.50 85 3116.50 {Size:1,ActiveEffects:[{Id:11,Amplifier:255,Duration:999999,ShowParticles:false}]}
+execute if block 3845 93 3109 minecraft:lime_carpet run schedule function cts:spawnslimes 160

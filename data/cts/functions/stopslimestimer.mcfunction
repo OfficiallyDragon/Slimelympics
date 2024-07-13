@@ -1,0 +1,1 @@
+execute if block 3845 93 3109 minecraft:lime_carpet run schedule function cts:stopslimes 2400
