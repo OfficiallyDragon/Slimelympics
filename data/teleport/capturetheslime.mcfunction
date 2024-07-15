@@ -1,0 +1,1 @@
+tp @a[team=!spectator] 3811.02 72 3115.97 0 0

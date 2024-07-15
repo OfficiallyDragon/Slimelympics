@@ -1,5 +1,9 @@
 tellraw @s [{"text": "Slimelympics","bold": true,"color": "#2EFF8F"},{"text": ": Setting up teams & adding scores!","color": "white","bold": false}]
 
+team add Spectator
+team modify RadSlimes prefix {"text": "<3 ","color": "white"}
+team modify Spectator color dark_gray
+
 team add RadSlimes
 team modify RadSlimes prefix {"text": "ꐖ ","color": "white"}
 team modify RadSlimes color green
