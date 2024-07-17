@@ -1,0 +1,4 @@
+name: Slimelympics
+version: '1.0-SNAPSHOT'
+main: me.officiallydragon.slimelympics.Slimelympics
+api-version: '1.20'
