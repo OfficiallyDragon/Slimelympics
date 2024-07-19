@@ -19,4 +19,4 @@ execute as @e[type=slime,x=3780,y=67,z=3147,dx=7,dy=4,dz=-7] run scoreboard play
 execute as @e[type=slime,x=3841,y=67,z=3084,dx=-7,dy=4,dz=7] run scoreboard players add @e[type=armor_stand,name=YellowSlimeCounter,limit=1] HoneySlimeCaptureCount 1
 execute as @e[type=slime,x=3841,y=67,z=3147,dx=-7,dy=4,dz=-7] run scoreboard players add @e[type=armor_stand,name=BlueSlimeCounter,limit=1] AnglerSlimeCaptureCount 1
 
-execute as @e[type=slime] at @s if block ~ ~-1 ~ minecraft:black_concrete_powder run tp @s ~ ~-1000 ~
+execute as @e[type=slime] at @s if block ~ ~-1 ~ minecraft:black_concrete_powder run tp @s 3810.99 73.00 3116.02
