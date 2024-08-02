@@ -3,7 +3,7 @@ spreadplayers 3716.50 3159.50 5 5 true @a[team=HoneySlimes]
 
 execute as @a[team=!RadSlimes,team=!BoomSlimes,team=!HoneySlimes] at @s run tp @s ~ ~ ~ 180 0
 execute as @a[team=!AnglerSlimes,team=!BoomSlimes,team=!RadSlimes] at @s run tp @s ~ ~ ~ 0 0
-tp @a[team=!AnglerSlimes,team=!HoneySlimes] 3716.50 78 3167.50 0.0 0.0
+tp @a[team=!AnglerSlimes,team=!HoneySlimes] 3716 79 3167
 
 schedule function slimeball:itemsbluevsyellow 1t
 schedule function slimeball:5 1t
